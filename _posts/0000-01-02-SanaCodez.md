@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "You must bring him snacks immediately or he will send you to the underworld"
 ---
-Mochi Meow
+
 Use the left arrow to go back!
